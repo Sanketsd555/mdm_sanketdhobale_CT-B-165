@@ -1,5 +1,10 @@
 # EduTrack - Student Performance Analysis System
 
+Name: Sanket Dhobale
+Class: CT-B
+Roll No: 165
+Submission Date: 15 February 2026
+
 A comprehensive platform designed to empower students and educators with real-time performance insights, detailed analytics, and seamless communication tools.
 
 ## Features
@@ -34,10 +39,3 @@ sanket/
 └── README.md     # Project documentation
 ```
 
-## Author
-
-Sanket
-
-## License
-
-This project is open source and available for educational purposes.
